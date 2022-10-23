@@ -25,11 +25,12 @@ Below are some outputs of the real-esrgan model and the fine-tuned model:
 
 ![1](https://user-images.githubusercontent.com/47056654/197423082-6d81adab-e0bc-4cb6-91f3-1bdca78a5f65.jpeg)
 
-![2](https://user-images.githubusercontent.com/47056654/197423096-07b8d15b-c908-4b2d-b1a4-bbd14dcb4090.jpeg)
+![2](https://user-images.githubusercontent.com/47056654/197424054-8b85a259-48e4-42a8-a115-2b52d7c0533e.jpeg)
 
-![3](https://user-images.githubusercontent.com/47056654/197423217-83e54c24-5fef-4c98-b5bf-103e1034ad11.jpeg)
+![3](https://user-images.githubusercontent.com/47056654/197424062-bef85a5c-0fe3-454c-b29d-5b752fc84a73.jpeg)
 
-![4](https://user-images.githubusercontent.com/47056654/197423226-e25f6822-ec39-4b12-b223-488d7afabcbe.jpeg)
+
+
 
 
 
