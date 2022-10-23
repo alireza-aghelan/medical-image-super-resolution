@@ -21,7 +21,9 @@ All details and fine-tuning parameters are available in the finetune_realesrgan_
 
 It is also possible to test the original real-esrgan model and fine-tuned model in the fine_tune_retinal_image.ipynb and fine_tune_chest_x_rays.ipynb files
 
-Below are some outputs of the real-esrgan model and the fine-tuned model:
+Below are some outputs of the real-esrgan model and the fine-tuned model
+
+Retinal images
 
 ![1](https://user-images.githubusercontent.com/47056654/197423082-6d81adab-e0bc-4cb6-91f3-1bdca78a5f65.jpeg)
 
@@ -30,6 +32,8 @@ Below are some outputs of the real-esrgan model and the fine-tuned model:
 ![3](https://user-images.githubusercontent.com/47056654/197424062-bef85a5c-0fe3-454c-b29d-5b752fc84a73.jpeg)
 
 ![4](https://user-images.githubusercontent.com/47056654/197424112-6921705e-8106-47dd-8bf1-9ab7b6c349b7.jpeg)
+
+Chest x-ray images 
 
 ![5](https://user-images.githubusercontent.com/47056654/197424125-9fa031e0-ec38-499d-8965-d3d8b1f7bb27.jpeg)
 
