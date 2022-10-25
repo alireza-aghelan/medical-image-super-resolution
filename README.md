@@ -39,8 +39,12 @@ Chest X-ray images
 ![7](https://user-images.githubusercontent.com/47056654/197784093-19a0c6cd-335a-4f7a-b871-c30bcf6f8042.jpeg)
 
 
-
-
+@InProceedings{wang2021realesrgan,
+    author    = {Xintao Wang and Liangbin Xie and Chao Dong and Ying Shan},
+    title     = {Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data},
+    booktitle = {International Conference on Computer Vision Workshops (ICCVW)},
+    date      = {2021}
+}
 
 
 
