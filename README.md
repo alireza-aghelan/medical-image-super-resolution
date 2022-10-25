@@ -26,11 +26,8 @@ Below are some outputs of the real-esrgan model and the fine-tuned model:
 Retinal images
 
 ![1](https://user-images.githubusercontent.com/47056654/197783863-8a03ac44-163a-4675-965d-f1d751e2f4a2.jpeg)
-
 ![2](https://user-images.githubusercontent.com/47056654/197783906-ae4c5ae2-85bd-48bb-a9ea-9d7826c60625.jpeg)
-
 ![3](https://user-images.githubusercontent.com/47056654/197783926-2bc39b44-e047-4e13-92e1-3bd4c2891141.jpeg)
-
 ![4](https://user-images.githubusercontent.com/47056654/197783954-dfe2c0b1-9cba-4359-85e2-7d01af913e7d.jpeg)
 
 
@@ -39,7 +36,6 @@ Chest X-ray images
 ![5](https://user-images.githubusercontent.com/47056654/197784017-a40d6ddd-baca-4a0c-8406-c33c65c527b2.jpeg)
 
 ![6](https://user-images.githubusercontent.com/47056654/197784062-8025888f-7873-4017-8ee6-797dbf7d9de7.jpeg)
-
 ![7](https://user-images.githubusercontent.com/47056654/197784093-19a0c6cd-335a-4f7a-b871-c30bcf6f8042.jpeg)
 
 
