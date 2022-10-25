@@ -4,7 +4,7 @@ In this project, we use the Real-Enhanced Super-Resolution Generative Adversaria
 In our proposed approach, the pre-trained generator and discriminator networks of the 
 Real-ESRGAN model are fine-tuned using medical image datasets.
 
-In this project, we worked on retinal images - chest x-ray images. We used the STARE dataset of retinal images and Tuberculosis Chest X-rays (Shenzhen) dataset.
+In this project, we worked on retinal images - chest X-ray images. We used the STARE dataset of retinal images and Tuberculosis Chest X-rays (Shenzhen) dataset.
 Our fine-tuned model produces more accurate and natural textures, and the output images have better detail and resolution compared to the original real-esrgan model.
 
 datasets can be downloaded from the link below: 
@@ -34,7 +34,7 @@ Retinal images
 ![4](https://user-images.githubusercontent.com/47056654/197783954-dfe2c0b1-9cba-4359-85e2-7d01af913e7d.jpeg)
 
 
-Chest x-ray images 
+Chest X-ray images 
 
 ![5](https://user-images.githubusercontent.com/47056654/197784017-a40d6ddd-baca-4a0c-8406-c33c65c527b2.jpeg)
 
