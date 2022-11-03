@@ -38,5 +38,5 @@ Chest X-ray images
 ![6](https://user-images.githubusercontent.com/47056654/197784062-8025888f-7873-4017-8ee6-797dbf7d9de7.jpeg)
 ![7](https://user-images.githubusercontent.com/47056654/197784093-19a0c6cd-335a-4f7a-b871-c30bcf6f8042.jpeg)
 
-
+The code of the Real-ESRGAN model is borrowed from https://github.com/xinntao/Real-ESRGAN
 
