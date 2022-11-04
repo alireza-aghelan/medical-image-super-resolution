@@ -25,6 +25,8 @@ The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN
 
 Below are some outputs of the real-esrgan model and the fine-tuned model:
 
+Columns 1–4 are the high-resolution ground truth images, LR degraded images, the outputs of the original Real-ESRGAN, and the outputs of the fine-tuned Real-ESRGAN.
+
 Retinal images
 
 ![1](https://user-images.githubusercontent.com/47056654/197783863-8a03ac44-163a-4675-965d-f1d751e2f4a2.jpeg)
