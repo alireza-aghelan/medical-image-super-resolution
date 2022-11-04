@@ -21,7 +21,7 @@ All details and fine-tuning parameters are available in the finetune_realesrgan_
 
 It is also possible to test the original real-esrgan model and fine-tuned model in the fine_tune_retinal.ipynb and fine_tune_chest_x_rays.ipynb files.
 
-The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN
+The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
 Below are some outputs of the real-esrgan model and the fine-tuned model:
 
