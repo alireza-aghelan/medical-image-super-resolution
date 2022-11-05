@@ -29,7 +29,7 @@ Columns 1–4 are the high-resolution ground truth images, LR degraded images, t
 
 Retinal images
 
-![1](https://user-images.githubusercontent.com/47056654/200134886-6d489c3c-0478-444a-bdb6-f06c817eaa3f.jpeg)
+![1](https://user-images.githubusercontent.com/47056654/200135085-86cdb799-3bc6-4ea9-a195-198516059f7d.jpeg)
 ![2](https://user-images.githubusercontent.com/47056654/197844747-d870e2c2-5cad-45bd-a9bf-01bcbc4b30ec.jpeg)
 ![3](https://user-images.githubusercontent.com/47056654/200134905-7111373e-14f5-4bbf-a9ae-3fe5cd74e1c2.jpeg)
 ![4](https://user-images.githubusercontent.com/47056654/197783954-dfe2c0b1-9cba-4359-85e2-7d01af913e7d.jpeg)
