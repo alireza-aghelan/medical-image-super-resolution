@@ -31,9 +31,10 @@ Columns 1–4 are the high-resolution ground truth images, LR degraded images, t
 
 ![1](https://user-images.githubusercontent.com/47056654/200135085-86cdb799-3bc6-4ea9-a195-198516059f7d.jpeg)
 
-![2](https://user-images.githubusercontent.com/47056654/200147230-8a88aefd-d8d8-46f0-ad36-d4185d23b685.jpeg)
+![2](https://user-images.githubusercontent.com/47056654/200147608-a1ea47b6-8960-4b3d-adc3-16a4cb84c80f.jpeg)
 
-# Chest X-ray images 
+
+Chest X-ray images 
 
 ![5](https://user-images.githubusercontent.com/47056654/197784017-a40d6ddd-baca-4a0c-8406-c33c65c527b2.jpeg)
 
