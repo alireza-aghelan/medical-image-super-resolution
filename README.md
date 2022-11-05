@@ -30,15 +30,15 @@ Columns 1–4 are the high-resolution ground truth images, LR degraded images, t
 Retinal images
 
 ![1](https://user-images.githubusercontent.com/47056654/200135085-86cdb799-3bc6-4ea9-a195-198516059f7d.jpeg)
+
 ![2](https://user-images.githubusercontent.com/47056654/200147230-8a88aefd-d8d8-46f0-ad36-d4185d23b685.jpeg)
-![3](https://user-images.githubusercontent.com/47056654/200147240-2281aeda-c1cf-43fa-b1d5-fec0fda62d46.jpeg)
-![4](https://user-images.githubusercontent.com/47056654/200147249-383049ea-4037-4a8c-89b3-ec575fce13c1.jpeg)
 
 Chest X-ray images 
 
 ![5](https://user-images.githubusercontent.com/47056654/197784017-a40d6ddd-baca-4a0c-8406-c33c65c527b2.jpeg)
 
+
 ![6](https://user-images.githubusercontent.com/47056654/200147278-9e408e6b-5387-40a7-b85b-f5b3f1b8be2d.jpeg)
-![7](https://user-images.githubusercontent.com/47056654/200147285-9a8065d0-e819-4a85-8e23-9df2bff6d970.jpeg)
+
 
 
