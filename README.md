@@ -38,7 +38,7 @@ Columns 1–4 are the high-resolution ground truth images, LR degraded images, t
 
 ![5](https://user-images.githubusercontent.com/47056654/200149154-0ba1a93e-f1fa-4444-b452-a440e8e29a31.jpeg)
 
-![6](https://user-images.githubusercontent.com/47056654/200147278-9e408e6b-5387-40a7-b85b-f5b3f1b8be2d.jpeg)
+![6](https://user-images.githubusercontent.com/47056654/200175085-c7a77fd5-0b04-4437-9b0d-213522bba052.jpeg)
 
 
 
