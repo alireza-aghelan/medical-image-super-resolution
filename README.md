@@ -5,7 +5,7 @@ In our proposed approach, the pre-trained generator and discriminator networks o
 Real-ESRGAN model are fine-tuned using medical image datasets.
 
 In this project, we worked on retinal images - chest X-ray images. We used the STARE dataset of retinal images and Tuberculosis Chest X-rays (Shenzhen) dataset.
-Our fine-tuned model produces more accurate and natural textures, and its outputs have better detail and resolution compared to the original Real-ESRGAN outputs.
+Our fine-tuned model produces more accurate and natural textures, and its outputs have better details and resolution compared to the original Real-ESRGAN outputs.
 
 
 datasets can be downloaded from the link below: 
