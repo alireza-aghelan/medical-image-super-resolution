@@ -26,14 +26,13 @@ The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
 Below are some outputs of the real-esrgan model and the fine-tuned model:
 
-Columns 1–4 are the high-resolution ground truth images, LR degraded images, the outputs of the original Real-ESRGAN, and the outputs of the fine-tuned Real-ESRGAN.
-
 # Retinal images 
 
 ![1](https://user-images.githubusercontent.com/47056654/200589674-4bf4dfff-4ea5-4ba0-a76e-d02d30359fcc.jpeg)
 
 ![2](https://user-images.githubusercontent.com/47056654/200147608-a1ea47b6-8960-4b3d-adc3-16a4cb84c80f.jpeg)
 
+Columns 1–4 are the high-resolution ground truth images, LR degraded images, the outputs of the original Real-ESRGAN, and the outputs of the fine-tuned Real-ESRGAN.
 
 # Chest X-ray images 
 
@@ -41,5 +40,5 @@ Columns 1–4 are the high-resolution ground truth images, LR degraded images, t
 
 ![4](https://user-images.githubusercontent.com/47056654/201715833-3d3ec3cb-b805-4545-9ba2-5980df4b4a52.jpeg)
 
-
+Columns 1–4 are the high-resolution ground truth images, LR degraded images, the outputs of the original Real-ESRGAN, and the outputs of the fine-tuned Real-ESRGAN.
 
