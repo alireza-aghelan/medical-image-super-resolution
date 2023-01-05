@@ -1,6 +1,6 @@
 # medical-image-super-resolution
  
-In this project, we use the Real-Enhanced Super-Resolution Generative Adversarial Network (Real-ESRGAN) model for medical image super-resolution.
+In this work, we use the Real-Enhanced Super-Resolution Generative Adversarial Network (Real-ESRGAN) model for medical image super-resolution.
 In our proposed approach, the pre-trained generator and discriminator networks of the 
 Real-ESRGAN model are fine-tuned using medical image datasets.
 
