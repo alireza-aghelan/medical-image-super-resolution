@@ -15,13 +15,9 @@ Tuberculosis Chest X-rays (Shenzhen) dataset:
 
 https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen
 
-All details and fine-tuning parameters are available in the finetune_realesrgan_x4plus.yml file.
-
-It is also possible to test the original real-esrgan model and fine-tuned model in the fine_tune_retinal.ipynb and fine_tune_chest_x_rays.ipynb files.
-
 The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
-Below are some outputs of the real-esrgan model and the fine-tuned model:
+Results of chest x-ray and retinal images:
 
 # Retinal images 
 
