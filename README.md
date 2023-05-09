@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen
 
 The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
-Results for chest x-ray and retinal images:
+Results for chest x-ray and retinal images are shown in the following figures.
 
 # Retinal images 
 
