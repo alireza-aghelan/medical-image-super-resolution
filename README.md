@@ -32,5 +32,5 @@ Below are some outputs of the real-esrgan model and the fine-tuned model:
 # Chest X-ray images 
 
 ![1](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/88bd201d-8497-458f-8555-c6d64db52093)
-![2](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/4a7c2e6a-6332-49dc-ba73-2f7e79c1c45e)
+![2](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/57951131-d8b5-49b8-8ac9-422ce9c29170)
 
