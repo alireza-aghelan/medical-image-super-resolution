@@ -26,7 +26,7 @@ Below are some outputs of the real-esrgan model and the fine-tuned model:
 # Retinal images 
 
 ![1](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/90607bee-b4b5-49f4-ae76-c508fab100c5)
-![2](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/7c943f66-bc07-4bb7-b5e5-777c2e836a6c)
+![2](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/fe99ff79-3ff7-4f82-a887-02d66055d152)
 
 
 # Chest X-ray images 
