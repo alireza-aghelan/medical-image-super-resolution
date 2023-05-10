@@ -7,9 +7,13 @@ In this project, we worked on chest X-ray and retinal images. We use the STARE d
 
 The download links of chest X-ray and retinal datasets:
 
-Tuberculosis Chest X-rays (Shenzhen) dataset: https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen
+STARE dataset:
 
-STARE dataset : https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset
+https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset
+
+Tuberculosis Chest X-rays (Shenzhen) dataset: 
+
+https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen
 
 The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
