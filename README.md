@@ -5,7 +5,7 @@ In our proposed approach, the pre-trained generator and discriminator networks o
 
 In this project, we worked on chest X-ray and retinal images. We use the STARE dataset of retinal images and the Tuberculosis chest X-rays (Shenzhen) dataset for fine-tuning.
 
-The download links of chest X-ray and retinal datasets:
+Below are the download links of chest X-ray and retinal datasets.
 
 STARE dataset:
 
