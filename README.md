@@ -1,6 +1,6 @@
 # medical-image-super-resolution
  
-This work focuses on improving the resolution and quality of chest X-ray and retinal images. To do this, we fine-tune the pre-trained Real-ESRGAN model separately on chest X-ray and retinal datasets. We use the STARE dataset and the Tuberculosis chest X-rays (Shenzhen) dataset for fine-tuning. The fine-tuned model can better preserve fine details and produce more realistic images. 
+This work focuses on improving the resolution and quality of chest X-ray and retinal images. For this, we fine-tune the pre-trained Real-ESRGAN model separately on chest X-ray and retinal datasets. We use the STARE dataset and the Tuberculosis chest X-rays (Shenzhen) dataset for fine-tuning. The fine-tuned model can better preserve fine details and produce more realistic images. 
 
 Below are the download links of chest X-ray and retinal datasets.
 
