@@ -1,6 +1,6 @@
 # medical-image-super-resolution
  
-In this work, we modify the Real-Enhanced Super-Resolution Generative Adversarial Network (Real-ESRGAN) model for medical image super-resolution. We work on chest X-ray and retinal images. In the proposed approach, the pre-trained Real-ESRGAN model is fine-tuned separately on chest X-ray and retinal datasets. We use the STARE dataset and the Tuberculosis chest X-rays (Shenzhen) dataset for fine-tuning. The fine-tuned model can better preserve fine details and produce more realistic images. 
+In this work, we fine-tune the pre-trained Real-Enhanced Super-Resolution Generative Adversarial Network (Real-ESRGAN) model separately on chest X-ray and retinal datasets. We use the STARE dataset and the Tuberculosis chest X-rays (Shenzhen) dataset for fine-tuning. The fine-tuned model can better preserve fine details and produce more realistic images. 
 
 Below are the download links of chest X-ray and retinal datasets.
 
