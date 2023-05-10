@@ -3,17 +3,13 @@
 In this work, we modify the Real-Enhanced Super-Resolution Generative Adversarial Network (Real-ESRGAN) model for medical image super-resolution.
 In our proposed approach, the pre-trained generator and discriminator networks of the Real-ESRGAN model are fine-tuned using medical image datasets. 
 
-In this project, we worked on chest X-ray and retinal images and used the STARE dataset of retinal images and Tuberculosis Chest X-rays (Shenzhen) dataset for fine-tuning. The proposed model produces more accurate and realistic textures, and its outputs have more realistic details compared to the original Real-ESRGAN outputs.
+In this project, we worked on chest X-ray and retinal images. We use the STARE dataset of retinal images and the Tuberculosis chest X-rays (Shenzhen) dataset for fine-tuning.
 
-datasets can be downloaded from the link below: 
+The download links of chest X-ray and retinal datasets:
 
-STARE dataset :
+Tuberculosis Chest X-rays (Shenzhen) dataset: https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen
 
-https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset
-
-Tuberculosis Chest X-rays (Shenzhen) dataset:
-
-https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen
+STARE dataset : https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset
 
 The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
