@@ -4,13 +4,13 @@ In this work, we fine-tune the pre-trained Real-Enhanced Super-Resolution Genera
 
 Below are the download links of chest X-ray and retinal datasets.
 
-STARE dataset:
-
-https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset
-
 Tuberculosis Chest X-rays (Shenzhen) dataset: 
 
 https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen
+
+STARE dataset:
+
+https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset
 
 The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
