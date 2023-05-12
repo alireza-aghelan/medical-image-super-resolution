@@ -4,7 +4,7 @@ In this work, we fine-tune the pre-trained Real-Enhanced Super-Resolution Genera
 
 Below are the download links of chest X-ray and retinal datasets.
 
-Tuberculosis Chest X-rays (Shenzhen) dataset: 
+Tuberculosis chest X-rays (Shenzhen) dataset: 
 
 https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen
 
