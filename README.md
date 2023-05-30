@@ -18,8 +18,16 @@ Results for chest x-ray and retinal images are shown in the following figures.
 
 # Retinal images 
 
+![1](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/21e040fa-98ee-42b0-b1c0-9cfa055b649e)
+
 Columns 1–4 are degraded LR images, original Real-ESRGAN outputs, fine-tuned Real-ESRGAN outputs, and ground truth HR images.
+
+![2](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/0f2191a7-9e56-47f2-a1fc-f69d61b1e006)
 
 # Chest X-ray images 
 
+![3](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/9413c246-8640-419d-b181-489e4e7c03a2)
+
 Columns 1–4 are degraded LR images, original Real-ESRGAN outputs, fine-tuned Real-ESRGAN outputs, and ground truth HR images. 
+
+![4](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/9faa84b6-bf68-4221-8363-f6cd2357d999)
