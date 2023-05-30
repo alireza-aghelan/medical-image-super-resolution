@@ -30,5 +30,5 @@ Columns 1–4 are degraded LR images, original Real-ESRGAN outputs, fine-tuned R
 
 Columns 1–4 are degraded LR images, original Real-ESRGAN outputs, fine-tuned Real-ESRGAN outputs, and ground truth HR images. 
 
-![4](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/4f5168cc-afb1-4dbd-88c1-fda71eea8d39)
+![4](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/f29f1dea-694a-428a-a3ec-31c481ff9315)
 
