@@ -14,20 +14,3 @@ https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset
 
 The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
-Results for chest x-ray and retinal images are shown in the following figures.
-
-# Retinal images 
-
-![1](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/311f5c9b-73c9-4347-a30f-0f93e240f5e0)
-
-Columns 1–4 are degraded LR images, original Real-ESRGAN outputs, fine-tuned Real-ESRGAN outputs, and ground truth HR images.
-
-![2](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/7b453caf-b63b-4974-83d2-b7bcf0451262)
-
-# Chest X-ray images 
-
-![3](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/9413c246-8640-419d-b181-489e4e7c03a2)
-
-Columns 1–4 are degraded LR images, original Real-ESRGAN outputs, fine-tuned Real-ESRGAN outputs, and ground truth HR images. 
-
-![4](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/9faa84b6-bf68-4221-8363-f6cd2357d999)
