@@ -14,7 +14,3 @@ https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset
 
 The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
-![5478FA06-E8C9-43C7-AED3-2104F80A2D04_1_201_a](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/4b9ce848-c6ff-4a35-9ad3-c101c32e8b42)
-
-
-![3249E1BB-436B-4590-AD6B-AB28167D0022_1_201_a](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/0aa76317-c218-43bf-8d38-66c57907352e)
