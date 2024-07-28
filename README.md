@@ -16,7 +16,8 @@ The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
 The results are shown in the following Figures.
 
-# Retinal images
+## Retinal images
+### Retinal images
 
 ![1](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/961af6a5-d667-470d-9d0e-cc83ce074082)
 
