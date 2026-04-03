@@ -1,6 +1,10 @@
 # Fine-tuned Generative Adversarial Network-based Model for Medical Image Super-Resolution
 
-[Paper Link](https://arxiv.org/abs/2211.00577)
+<p align="center">
+  <a href="https://arxiv.org/abs/2211.00577">
+    <img src="https://img.shields.io/badge/Paper-Link-b31b1b?style=for-the-badge" alt="Paper Link">
+  </a>
+</p>
 
 **Authors:** Alireza Aghelan, Modjtaba Rouhani
 
