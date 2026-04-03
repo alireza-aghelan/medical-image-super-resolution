@@ -1,6 +1,6 @@
 # Fine-tuned Generative Adversarial Network-based Model for Medical Image Super-Resolution
 
-**Paper Link:** [https://arxiv.org/abs/2211.00577](https://arxiv.org/abs/2211.00577)
+[Paper Link](https://arxiv.org/abs/2211.00577)
 
 **Authors:** Alireza Aghelan, Modjtaba Rouhani
 
@@ -11,19 +11,15 @@ In this work, we adapt the pre-trained **Real-ESRGAN** model to the medical imag
 
 Our approach leverages the **high-order degradation model** of Real-ESRGAN to better simulate realistic image degradations during training. This helps the model generate more faithful and visually plausible high-resolution reconstructions from low-resolution medical images.
 
-The method is fine-tuned and evaluated on two medical imaging datasets:
-- **STARE** for retinal image super-resolution
-- **Tuberculosis Chest X-ray (Shenzhen)** for chest X-ray super-resolution
-
 Compared with the original Real-ESRGAN baseline, the fine-tuned model produces improved perceptual quality, better detail preservation, and more realistic textures in reconstructed medical images.
 
 Below are the download links of chest X-ray and retinal datasets.
 
-Tuberculosis chest X-rays (Shenzhen) dataset: 
+**Tuberculosis Chest X-ray (Shenzhen)** for chest X-ray super-resolution:
 
 https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen
 
-STARE dataset:
+**STARE** for retinal image super-resolution:
 
 https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset
 
