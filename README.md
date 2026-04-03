@@ -1,14 +1,8 @@
-<h1 align="right">Fine-tuned Generative Adversarial Network-based Model for Medical Image Super-Resolution</h1>
+# Fine-tuned Generative Adversarial Network-based Model for Medical Image Super-Resolution
 
-<p align="right">
-  <a href="https://ieeexplore.ieee.org/abstract/document/10874705"><b>Paper (IEEE)</b></a> |
-  <a href="https://arxiv.org/abs/2211.00577"><b>Paper (arXiv)</b></a>
-</p>
+[**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/10874705) | [**arXiv**](https://arxiv.org/abs/2211.00577)
 
-<p align="right">
-  <b>Alireza Aghelan</b>, <b>Modjtaba Rouhani</b>
-</p>
-
+**Alireza Aghelan**, **Modjtaba Rouhani**
 
 ## Overview
 This repository presents the implementation of our paper, **Fine-tuned Generative Adversarial Network-based Model for Medical Image Super-Resolution**.
