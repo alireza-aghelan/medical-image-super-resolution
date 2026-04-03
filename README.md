@@ -5,18 +5,17 @@
 **Alireza Aghelan**, **Modjtaba Rouhani**
 
 ## Overview
+
 This repository presents the implementation of our paper, **Fine-tuned Generative Adversarial Network-based Model for Medical Image Super-Resolution**.
 
-In this work, we adapt the pre-trained **Real-ESRGAN** model to the medical imaging domain through **transfer learning**. The goal is to enhance the resolution and perceptual quality of medical images while preserving diagnostically important fine details. 
-
-Compared with the original Real-ESRGAN baseline, the fine-tuned model produces improved perceptual quality, better detail preservation, and more realistic textures in reconstructed medical images.
+In this work, we adapt the pre-trained **Real-ESRGAN** model to the medical imaging domain through **transfer learning**. The goal is to enhance the resolution and perceptual quality of medical images while preserving diagnostically important fine details. Compared with the original Real-ESRGAN baseline, the fine-tuned model produces improved perceptual quality, better detail preservation, and more realistic textures in reconstructed medical images.
 
 The datasets used for training the proposed model are listed below.
 
 - **Tuberculosis Chest X-ray (Shenzhen):** [Dataset Link](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen)
 - **STARE (Retinal Images):** [Dataset Link](https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset)
 
-The Real-ESRGAN code is borrowed from [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN).
+This work is built upon [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN).
 
 The results are shown in the following Figures.
 
