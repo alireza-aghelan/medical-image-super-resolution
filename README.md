@@ -1,6 +1,6 @@
 # Fine-tuned Generative Adversarial Network-based Model for Medical Image Super-Resolution
 
-[**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/10874705) | [**arXiv**](https://arxiv.org/abs/2211.00577)
+[**Paper (IEEE)**](https://ieeexplore.ieee.org/abstract/document/10874705) | [**Paper (arXiv Preprint)**](https://arxiv.org/abs/2211.00577)
 
 **Alireza Aghelan**, **Modjtaba Rouhani**
 
@@ -11,15 +11,10 @@ In this work, we adapt the pre-trained **Real-ESRGAN** model to the medical imag
 
 Below are the download links of chest X-ray and retinal datasets.
 
-**Tuberculosis Chest X-ray (Shenzhen)** for chest X-ray super-resolution:
+- **Tuberculosis Chest X-ray (Shenzhen)** for chest X-ray super-resolution: [Shenzhen Dataset](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen)
+- **STARE** for retinal image super-resolution: [STARE Dataset](https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset)
 
-https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen
-
-**STARE** for retinal image super-resolution:
-
-https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset
-
-The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
+The Real-ESRGAN code is borrowed from [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN).
 
 The results are shown in the following Figures.
 
@@ -28,6 +23,8 @@ The results are shown in the following Figures.
 ![1](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/961af6a5-d667-470d-9d0e-cc83ce074082)
 
 Results for images of the DRIVE dataset. Columns 1–4 are degraded LR images, Real-ESRGAN outputs, fine-tuned Real-ESRGAN outputs, and ground truth HR images.
+
+---
 
 ![2](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/0c40e5c3-3039-455d-8ff5-a5ee2307373d)
 
@@ -38,6 +35,8 @@ Magnified regions of a retinal image. (a) Degraded LR image. (b) Real-ESRGAN out
 ![3](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/5a79d6fc-7771-4e99-8fbb-ba63d35cb4dc)
 
 Results for images of the NIH chest X-ray dataset. Columns 1–4 are degraded LR images, Real-ESRGAN outputs, fine-tuned Real-ESRGAN outputs, and ground truth HR images.
+
+---
 
 ![4](https://github.com/alireza-aghelan/medical-image-super-resolution/assets/47056654/84591627-497a-462f-b83b-e2e138302a94)
 
