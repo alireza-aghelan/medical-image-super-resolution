@@ -7,11 +7,7 @@
 ## Overview
 This repository presents the implementation of our paper, **Fine-tuned Generative Adversarial Network-based Model for Medical Image Super-Resolution**.
 
-In this work, we adapt the pre-trained **Real-ESRGAN** model to the medical imaging domain through **transfer learning**. The goal is to enhance the resolution and perceptual quality of medical images while preserving diagnostically important fine details.
-
-Our approach leverages the **high-order degradation model** of Real-ESRGAN to better simulate realistic image degradations during training. This helps the model generate more faithful and visually plausible high-resolution reconstructions from low-resolution medical images.
-
-Compared with the original Real-ESRGAN baseline, the fine-tuned model produces improved perceptual quality, better detail preservation, and more realistic textures in reconstructed medical images.
+In this work, we adapt the pre-trained **Real-ESRGAN** model to the medical imaging domain through **transfer learning**. The goal is to enhance the resolution and perceptual quality of medical images while preserving diagnostically important fine details. Our approach leverages the **high-order degradation model** of Real-ESRGAN to better simulate realistic image degradations during training. This helps the model generate more faithful and visually plausible high-resolution reconstructions from low-resolution medical images. Compared with the original Real-ESRGAN baseline, the fine-tuned model produces improved perceptual quality, better detail preservation, and more realistic textures in reconstructed medical images.
 
 Below are the download links of chest X-ray and retinal datasets.
 
