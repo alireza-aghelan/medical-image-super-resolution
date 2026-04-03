@@ -10,7 +10,7 @@ This repository presents the implementation of our paper, **Fine-tuned Generativ
 
 In this work, we adapt the **Real-ESRGAN** model to the medical imaging domain through **transfer learning**. The goal is to enhance the resolution and perceptual quality of medical images while preserving diagnostically important fine details. Compared with the original Real-ESRGAN baseline, the fine-tuned model produces super-resolved images with improved perceptual quality, better detail preservation, and more realistic textures.
 
-The datasets used for training the proposed model are listed below.
+The datasets used for training the proposed model are listed .
 
 - **Tuberculosis Chest X-ray (Shenzhen):** [Dataset Link](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen)
 - **STARE (Retinal Images):** [Dataset Link](https://www.kaggle.com/datasets/vidheeshnacode/stare-dataset)
