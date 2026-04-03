@@ -1,8 +1,6 @@
-# Medical Image Super-Resolution
+# Fine-tuned Generative Adversarial Network-based Model for Medical Image Super-Resolution
 
-## Paper
-**Fine-tuned Generative Adversarial Network-based Model for Medical Image Super-Resolution**  
-[arXiv:2211.00577](https://arxiv.org/abs/2211.00577)
+**Paper Link:** [https://arxiv.org/abs/2211.00577](https://arxiv.org/abs/2211.00577)
 
 **Authors:** Alireza Aghelan, Modjtaba Rouhani
 
@@ -11,7 +9,7 @@ This repository presents the implementation of our paper, **Fine-tuned Generativ
 
 In this work, we adapt the pre-trained **Real-ESRGAN** model to the medical imaging domain through **transfer learning**. The goal is to enhance the resolution and perceptual quality of medical images while preserving diagnostically important fine details.
 
-Our approach leverages the **high-order degradation model** of Real-ESRGAN to better simulate realistic image degradations during training. This allows the model to generate more faithful and visually plausible high-resolution reconstructions from low-resolution medical images.
+Our approach leverages the **high-order degradation model** of Real-ESRGAN to better simulate realistic image degradations during training. This helps the model generate more faithful and visually plausible high-resolution reconstructions from low-resolution medical images.
 
 The method is fine-tuned and evaluated on two medical imaging datasets:
 - **STARE** for retinal image super-resolution
