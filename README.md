@@ -1,6 +1,6 @@
 # Fine-tuned Generative Adversarial Network-based Model for Medical Image Super-Resolution
 
-[**Paper (IEEE)**](https://ieeexplore.ieee.org/abstract/document/10874705) | [**Paper (arXiv Preprint)**](https://arxiv.org/abs/2211.00577)
+[**IEEE Paper**](https://ieeexplore.ieee.org/abstract/document/10874705) | [**arXiv Preprint**](https://arxiv.org/abs/2211.00577)
 
 **Alireza Aghelan**, **Modjtaba Rouhani**
 
